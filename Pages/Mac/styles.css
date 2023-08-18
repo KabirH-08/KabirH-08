@@ -3,6 +3,25 @@
     font-weight: 400;
     src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
   }
-  h1,h4{
+*{
 font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   }
+
+  .tab-head-text{
+    font-size: small;
+    height: 130px;
+  }
+
+  .tab-head{
+    height: 500px;
+    padding: 0;
+  }
+  
+  .devicesItemKabir{
+    height: 120px;
+  }
+
+  .BigItemKabir{
+    height: 200px;
+  }
+  
